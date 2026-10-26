@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { margin: 0; background: #F8FAFC; color: #101828; font-family: Inter, sans-serif; } button, input { -webkit-tap-highlight-color: transparent; } button:focus-visible { outline: 3px solid #93c5fd; outline-offset: 2px; }
